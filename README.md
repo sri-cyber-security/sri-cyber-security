@@ -9,12 +9,11 @@ I am a cybersecurity enthusiast transitioning into Identity and Access Managemen
 - 💡 **Focus Areas:** IAM, Active Directory, Cloud Security, SIEM (Splunk), Vulnerability Management
 
 ### 🛠️ Practical Labs & Projects
-*(Coming Soon)*
-- 🔍 **SIEM & Log Analysis:** Brute Force Detection using Splunk & Sysmon
-- 🔐 **Identity & Access Management:** Active Directory Group Policy & Account Hardening
-- 🛡️ **Vulnerability Management:** Automated Scanning & Patching using Nessus
-- 🛡️ **Network Security:** Traffic Analysis using Wireshark & Nmap
 
+- 🔐 **Identity & Access Management:** [Microsoft Entra ID - RBAC, MFA & Least Privilege](https://github.com/sri-cyber-security/Azure-Entra-ID-IAM-Labs)
+- 🔍 **Cloud SIEM & Log Analysis:** [Azure VM & Splunk - RDP Logon Monitoring](https://github.com/sri-cyber-security/Azure-Cloud-SIEM-Splunk-Lab)
+- 🛡️ **Vulnerability Management:** [Network Discovery & Scanning using Nmap & Nessus](https://github.com/sri-cyber-security/Vulnerability-Management-Lab)
+- 
 ### 💼 Experience
 **Quality Assurance Associate | Amazon** (Aug 2019 - Oct 2022)
 - Ensured strict compliance with internal policies and maintained high-quality standards in manuscript reviews.
