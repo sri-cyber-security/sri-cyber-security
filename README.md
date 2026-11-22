@@ -21,5 +21,5 @@ I am a cybersecurity enthusiast transitioning into Identity and Access Managemen
 - Leveraged strong analytical skills to identify anomalies, a skill I now apply to log analysis and threat hunting.
 
 ### 📫 Connect with me:
-- **LinkedIn:** [www.linkedin.com/in/sri-rama-priya-dharcini]
+- **LinkedIn:** [Sri Rama Priya Dharcini](https://www.linkedin.com/in/sri-rama-priya-dharcini)
 - **Email:** srpdbm00@gmail.com
