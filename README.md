@@ -15,6 +15,7 @@ I am a cybersecurity enthusiast transitioning into Identity and Access Managemen
 - 🛡️ **Vulnerability Management:** [Network Discovery & Scanning using Nmap & Nessus](https://github.com/sri-cyber-security/Vulnerability-Management-Lab)
 - 🔐 **Zero Trust Conditional Access (MFA):** [Microsoft Entra ID - Conditional Access MFA Lab (CA01)](https://github.com/sri-cyber-security/Entra-ID-Zero-Trust-Conditional-Access-Lab)
 - 🌍 **Zero Trust Geo-Blocking:** [Microsoft Entra ID - Geo-Blocking & Named Locations Lab (CA02)](https://github.com/sri-cyber-security/Entra-ID-Geo-Blocking-Conditional-Access-Lab)
+- 🔑 **Privileged Identity Management (JIT Access):** [Microsoft Entra ID - PIM Just-In-Time Access Lab](https://github.com/sri-cyber-security/Entra-ID-PIM-Just-In-Time-Access-Lab)
 ### 💼 Experience
 **Quality Assurance Associate | Amazon** (Aug 2019 - Oct 2022)
 - Ensured strict compliance with internal policies and maintained high-quality standards in manuscript reviews.
